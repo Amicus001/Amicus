@@ -1,0 +1,48 @@
+('C:\\Users\\kdp\\PycharmProjects\\EXAM_PY\\Amicus\\240108_Day '
+ '008\\build\\project_nemo\\project_nemo.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Users\\kdp\\PycharmProjects\\EXAM_PY\\Amicus\\240108_Day '
+   '008\\build\\project_nemo\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\kdp\\PycharmProjects\\EXAM_PY\\Amicus\\240108_Day '
+   '008\\build\\project_nemo\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\kdp\\PycharmProjects\\EXAM_PY\\Amicus\\240108_Day '
+   '008\\build\\project_nemo\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\kdp\\PycharmProjects\\EXAM_PY\\Amicus\\240108_Day '
+   '008\\build\\project_nemo\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\kdp\\PycharmProjects\\EXAM_PY\\Amicus\\240108_Day '
+   '008\\build\\project_nemo\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\kdp\\PycharmProjects\\EXAM_PY\\Amicus\\240108_Day '
+   '008\\build\\project_nemo\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\kdp\\anaconda3\\envs\\My_38\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('project_nemo',
+   'C:\\Users\\kdp\\PycharmProjects\\EXAM_PY\\Amicus\\240108_Day '
+   '008\\project_nemo.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
